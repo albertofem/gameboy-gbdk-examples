@@ -1,0 +1,3 @@
+[submodule "gbdk"]
+	path = gbdk
+	url = https://github.com/gheja/gbdk.git
