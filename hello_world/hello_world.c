@@ -1,10 +1,10 @@
 #include <gb/gb.h>
-#include "tilemap.c"
+#include "tileset.c"
 
 void init();
 void draw();
 
-// this map contains our "hello world"
+// this tilemap contains our "hello world"
 unsigned char hello_world_map[] =
 {
     0x18,0x15,0x1C,0x1C,0x1F,
