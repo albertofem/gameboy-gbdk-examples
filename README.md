@@ -1,4 +1,4 @@
-GameBoy developmentkit examples
+GameBoy Development Kit examples
 ====
 
 This repository contains some examples in how to use the GameBoy development kit to build games for the GameBoy
